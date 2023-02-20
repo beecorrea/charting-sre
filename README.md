@@ -1,6 +1,6 @@
-# Charting
-
-Outline of (roughly) all content I've consumed SRE: books, Twitter accounts, tools, papers and much more.
+# Charting SRE
+Every now and then someone asks me for recommendation of content about SRE.
+I've outlined (roughly) all content I've consumed SRE: books, Twitter accounts, tools, papers and much more.
 
 ## People
 ### Charity Majors
