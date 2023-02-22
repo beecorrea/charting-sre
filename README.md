@@ -1,34 +1,47 @@
-# Charting SRE
+<h1>Charting SRE</h1>
 Every now and then someone asks me for recommendation of content about SRE.
 I've outlined (roughly) all content I've consumed SRE: books, Twitter accounts, tools, papers and much more.
 
+- [People](#people)
+- [Articles](#articles)
+- [Books](#books)
+- [Papers](#papers)
+- [Computer Science](#computer-science)
+- [Documentations](#documentations)
+- [Videos/Channels](#videoschannels)
+- [Repositories/Tooling](#repositoriestooling)
+  - [Containerization](#containerization)
+  - [Databases/DBMS](#databasesdbms)
+  - [CI/CD](#cicd)
+  - [Observability (o11y)](#observability-o11y)
+  - [IaC](#iac)
+  - [Networking](#networking)
+
 ## People
-### Charity Majors
-- [Twitter](https://twitter.com/mipsytipsy)
-### Cher Scarlett
-- [Twitter](https://twitter.com/cherthedev)
-### Sarah Drasner
-- [Twitter](https://twitter.com/sarah_edo)
-### Timnit Gebru
-- [Twitter](https://twitter.com/timnitGebru)
-### Ian Coldwater
-- [Twitter](https://twitter.com/iancoldwater)
-### Liz Fong-Jones
-- [Twitter](https://twitter.com/lizthegrey)
-### Julia Evans
-- [Twitter](https://twitter.com/b0rk)
+- Charity Majors ([Twitter](https://twitter.com/mipsytipsy))
+- Cher Scarlett ([Twitter](https://twitter.com/cherthedev))
+- Sarah Drasner ([Twitter](https://twitter.com/sarah_edo))
+- Timnit Gebru ([Twitter](https://twitter.com/timnitGebru))
+- Ian Coldwater ([Twitter](https://twitter.com/iancoldwater))
+- Liz Fong-Jones ([Twitter](https://twitter.com/lizthegrey))
+- Julia Evans ([Twitter](https://twitter.com/b0rk))
 
 ## Articles
 - [k8s networking](https://medium.com/@betz.mark/understanding-kubernetes-networking-pods-7117dd28727)
+
+## Books
+- [Google SRE Book](https://sre.google/sre-book/table-of-contents/)
+- [Designing Data-Intensive Applications (a.k.a DDIA)](https://dataintensive.net/)
+- [Database Internals: A Deep Dive into How Distributed Data Systems Work](https://www.databass.dev/)
+- [Computer Networking: a Top Down Approach (a.k.a Kurose)](https://gaia.cs.umass.edu/kurose_ross/index.php)
 
 ## Papers
 - Lamport, L., 1977. Concurrent reading and writing. Communications of the ACM, 20(11), pp.806-811.
 - Schwarzkopf, M., Konwinski, A., Abd-El-Malek, M. and Wilkes, J., 2013, April. Omega: flexible, scalable schedulers for large compute clusters. In Proceedings of the 8th ACM European Conference on Computer Systems (pp. 351-364).
 - Verma, A., Pedrosa, L., Korupolu, M., Oppenheimer, D., Tune, E. and Wilkes, J., 2015, April. Large-scale cluster management at Google with Borg. In Proceedings of the Tenth European Conference on Computer Systems (pp. 1-17).
-  
-## Blogs
-> WIP
 
+## Computer Science
+[Link to section.](COMPUTER_SCIENCE.md)
 ## Documentations
 - [Kubernetes](https://kubernetes.io/docs/home/)
 - [Helm](https://helm.sh/)
@@ -37,13 +50,6 @@ I've outlined (roughly) all content I've consumed SRE: books, Twitter accounts, 
 ## Videos/Channels
 - [Jenny's Lectures](https://www.youtube.com/@JennyslecturesCSIT)
 - [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana)
-- 
-
-## Books
-- [Google SRE Book](https://sre.google/sre-book/table-of-contents/)
-- [Designing Data-Intensive Applications (a.k.a DDIA)](https://dataintensive.net/)
-- [Database Internals: A Deep Dive into How Distributed Data Systems Work](https://www.databass.dev/)
-- [Computer Networking: a Top Down Approach (a.k.a Kurose)](https://gaia.cs.umass.edu/kurose_ross/index.php)
 
 ## Repositories/Tooling
 ### Containerization
