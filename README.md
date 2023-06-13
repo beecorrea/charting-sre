@@ -9,12 +9,13 @@ I've outlined (roughly) all content I've consumed SRE: books, Twitter accounts, 
 - [Computer Science fundamentals](#computer-science-fundamentals)
 - [Documentations](#documentations)
 - [Videos/Channels](#videoschannels)
-- [Repositories/Tooling](#repositoriestooling)
+- [Repositories / Tooling](#repositories--tooling)
   - [Containerization](#containerization)
-  - [Databases/DBMS](#databasesdbms)
+  - [Databases / DBMS](#databases--dbms)
   - [CI/CD](#cicd)
   - [Observability (o11y)](#observability-o11y)
   - [IaC](#iac)
+  - [Configuration-as-Code](#configuration-as-code)
   - [Networking](#networking)
 
 ## People
@@ -51,14 +52,14 @@ I've outlined (roughly) all content I've consumed SRE: books, Twitter accounts, 
 - [Jenny's Lectures](https://www.youtube.com/@JennyslecturesCSIT)
 - [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana)
 
-## Repositories/Tooling
+## Repositories / Tooling
 ### Containerization
 - [opencontainers/image-spec](https://github.com/opencontainers/image-spec)
 - [opencontainers/runtime-spec](https://github.com/opencontainers/runtime-spec)
 - [opencontainers/runc](https://github.com/opencontainers/runc)
 - [containers/youki](https://github.com/containers/youki)
 - [kubernetes/kubernetes (a.k.a k8s)](https://github.com/kubernetes/kubernetes)
-### Databases/DBMS
+### Databases / DBMS
 - [boltdb/bolt](https://github.com/boltdb/bolt)
   - [up-to-date fork](https://github.com/etcd-io/bbolt)
 - [Kafka](https://github.com/apache/kafka)
@@ -84,6 +85,9 @@ I've outlined (roughly) all content I've consumed SRE: books, Twitter accounts, 
 - [Terraform](https://developer.hashicorp.com/terraform/language)
 - [Pulumi](https://www.pulumi.com/docs/get-started/)
 - [Ansible](https://docs.ansible.com/)
+### Configuration-as-Code
+- [CUE](https://github.com/cue-lang/cue)
+- [CEL (Common Expression Language)](https://github.com/google/cel-go)
 ### Networking
 - [Consul](https://developer.hashicorp.com/consul/docs)
 - [Istio](https://github.com/istio/istio)
