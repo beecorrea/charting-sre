@@ -6,7 +6,7 @@ I've outlined (roughly) all content I've consumed SRE: books, Twitter accounts, 
 - [Articles](#articles)
 - [Books](#books)
 - [Papers](#papers)
-- [Computer Science](#computer-science)
+- [Computer Science fundamentals](#computer-science-fundamentals)
 - [Documentations](#documentations)
 - [Videos/Channels](#videoschannels)
 - [Repositories/Tooling](#repositoriestooling)
@@ -40,8 +40,8 @@ I've outlined (roughly) all content I've consumed SRE: books, Twitter accounts, 
 - Schwarzkopf, M., Konwinski, A., Abd-El-Malek, M. and Wilkes, J., 2013, April. Omega: flexible, scalable schedulers for large compute clusters. In Proceedings of the 8th ACM European Conference on Computer Systems (pp. 351-364).
 - Verma, A., Pedrosa, L., Korupolu, M., Oppenheimer, D., Tune, E. and Wilkes, J., 2015, April. Large-scale cluster management at Google with Borg. In Proceedings of the Tenth European Conference on Computer Systems (pp. 1-17).
 
-## Computer Science
-[Link to section.](COMPUTER_SCIENCE.md)
+## Computer Science fundamentals
+[Go to section](COMPUTER_SCIENCE.md)
 ## Documentations
 - [Kubernetes](https://kubernetes.io/docs/home/)
 - [Helm](https://helm.sh/)
