@@ -63,6 +63,8 @@ I've outlined (roughly) all content I've consumed SRE: books, Twitter accounts, 
   - [up-to-date fork](https://github.com/etcd-io/bbolt)
 - [Kafka](https://github.com/apache/kafka)
 - [Postgres](https://github.com/postgres/postgres)
+- [BadgerDB](https://github.com/dgraph-io/badger)
+- [JunoDB](https://github.com/paypal/junodb)
 ### CI/CD
 - [ArgoCD](https://github.com/argoproj/argo-cd)
 - [TektonCD](https://github.com/tektoncd)
